@@ -29,7 +29,7 @@
             <div class="card-body">
                 <div class="flex justify-between items-center mb-4">
                     <h2 class="card-title text-center">ثبت نام</h2>
-                    <button class="btn btn-outline btn-sm" onclick="toggleTheme()">تغییر حالت</button>
+                    <button class="btn btn-outline btn-sm" onclick="toggleTheme()">حالت شب</button>
                 </div>
                 <form>
                     <div class="form-control">
